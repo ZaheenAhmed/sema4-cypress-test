@@ -1,1 +1,6 @@
-{}
+{
+
+"modifyObstructiveCode": false,
+"chromeWebSecurity": false
+
+}
