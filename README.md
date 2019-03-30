@@ -14,7 +14,7 @@ Test integrations for purchasing a pixel phone off the google store built with c
 
 ## Running the tests
 
-Click google_checkout_spec.js from cypress run window
+Click on test name from cypress run window to run test
 
 ### Break down into end to end tests
 
